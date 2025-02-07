@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/WvkvRtmZ/github-lp.png)
+![Logo](https://i.ibb.co/6RbVgWGf/banner-github-lp.png)
 
 #### Repositório dedicado à disciplina de Linguagem de Programação na instituição São Paulo Tech School.
 
